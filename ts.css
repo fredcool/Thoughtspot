@@ -1,0 +1,9 @@
+@media (min-width: 1300px) {
+    .tile-container .tile-size-s {
+        width: 24.25%;
+    }
+}
+
+.tile-size-s {
+    /%color: red;%/
+}
