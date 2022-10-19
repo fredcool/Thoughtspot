@@ -4,6 +4,10 @@
     }
 }
 
-.tile-size-s {
-    /%color: red;%/
+/* .tile-size-s {
+    color: red;
+} */
+
+body {
+    zoom: 0.9;
 }
